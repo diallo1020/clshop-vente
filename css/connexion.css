@@ -1,0 +1,31 @@
+
+.container {
+    /* background-color: rgb(96, 199, 167); */
+    background-color: #60C7A7;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding-top: 100px;
+}
+
+form {
+    background-color: #fff;
+    margin: auto;
+    width: 500px;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+    font-style: italic;
+}
+
+#email input, #password input {
+    width: 90%;
+    font-size: 1.3em;
+    padding: 10px;
+    margin: 10px auto;
+
+}
